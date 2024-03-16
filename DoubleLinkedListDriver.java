@@ -1,8 +1,5 @@
 package cmsc204Assign3;
-/**
- * Programmer : Daniel Munachimso Okeke
- * Class : CMSC204
- */
+
 
 import java.util.ArrayList;
 import java.util.Comparator;
